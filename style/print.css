@@ -1,0 +1,5 @@
+body { color:#000; background-color:#FFFFFF; }
+
+.plainlink a, .imagesection, .mapholder, form, #booking, .colourbtn, .stamp, .btn, #home, #progress, nav, img { display: none!important; }
+
+.section { min-height: 0!important; }
